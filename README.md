@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="capa.png" width="45%" alt="Capa do livro Lanterna Social">
-  <img src="contracapa.png" width="45%" alt="Contracapa do livro Lanterna Social">
-</p>
-
 # Projeto_Lanterna_Social
 Código- fonte e ferramentas de análise de dados do livro 'Lanterna Social - O Controle nas Mãos do Cidadão'
 
