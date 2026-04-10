@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="capa.png" width="45%" />
-  <img src="contracapa.png" width="45%" />
+  <img src="capa.png" width="45%" alt="Capa do livro Lanterna Social">
+  <img src="contracapa.png" width="45%" alt="Contracapa do livro Lanterna Social">
 </p>
 
 # Projeto_Lanterna_Social
