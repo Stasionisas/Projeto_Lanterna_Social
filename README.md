@@ -1,12 +1,7 @@
-<div align="center">
-
-| | |
-| :---: | :---: |
-| <img src="capa.png" width="350"> | <img src="contracapa.png" width="350"> |
-
-</div>
-
----
+<p align="center">
+  <img src="capa.png" width="45%" />
+  <img src="contracapa.png" width="45%" />
+</p>
 
 # Projeto_Lanterna_Social
 Código- fonte e ferramentas de análise de dados do livro 'Lanterna Social - O Controle nas Mãos do Cidadão'
