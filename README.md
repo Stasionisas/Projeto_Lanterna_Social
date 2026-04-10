@@ -8,10 +8,9 @@ O objetivo deste projeto é empoderar cidadãos e auditores com ferramentas prá
 ## 📖 Sobre o Livro
 Este código é parte integrante do referido livro. Para entender a fundamentação legal e a lógica por trás de cada script, recomendamos sua consulta.
 
-<div align="center">
-  <img src="capa.png" width="300" alt="Capa do livro Lanterna Social" />
-  <img src="contracapa.png" width="300" alt="Contracapa do livro Lanterna Social" />
-</div>
+<p align="center">
+  <img src="capa e contracapa.png" width="90%" alt="Capa e contracapa do livro Lanterna Social">
+</p>
 
 # 🔦 Projeto Lanterna Social
 > "A lanterna não cria a realidade. Ela apenas permite vê-la com clareza. E, uma vez vista, ela nunca mais volta a ser invisível."
