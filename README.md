@@ -41,14 +41,14 @@ Neste espaço, você encontrará os códigos em Python e os cadernos de análise
 3.  **Processamento de Dados Contábeis:** Scripts para triagem e classificação de despesas.
 
 ---
-###### 📖 Sobre o Autor
+##### 📖 Sobre o Autor
 **Douglas Stasionisas** é Analista de Planejamento e Desenvolvimento Organizacional (APDO) na especialidade de Ciências Contábeis e atua como contador público há praticamente três décadas. Este trabalho reflete sua missão de traduzir a complexidade técnica em transparência democrática. E contribuir como servidor publico e como contador público para o empoderamento social e para uma administração pública mais justa, transparente, eficiente, e menos sujeita aos riscos associados a práticas de fraudes ou corrupção. 
 
 *Informações que antes parecia complexo reveLando-se estruturado, que pareciam distantes tornando-se acessível.*
 
 ---
 
-###### ⚖️ **Propriedade Intelectual e Licença**
+#### ⚖️ **Propriedade Intelectual e Licença**
 
 * **Scripts e Automação:** Os códigos contidos neste repositório (arquivos `.py` e `.ipynb`) são de código aberto, licenciados sob a **[MIT License](LICENSE)**. O objetivo é fomentar o controle social e a transparência.
 * **Obra Literária:** O título **Lanterna Social - O Controle nas Mãos do Cidadão**, o índice, as imagens de capa e os textos descritivos aqui apresentados são partes integrantes do livro de autoria de **Douglas Stasionisas** (em fase de registro/publicação). Todos os direitos sobre o texto literário estão reservados.
