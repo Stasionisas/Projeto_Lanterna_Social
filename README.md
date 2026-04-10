@@ -1,5 +1,5 @@
 # Projeto_Lanterna_Social
-Código- fonte e ferramentas de análise de dados do livro 'Lanterna Social - O Controle nas Mãos do Cidadão'
+Código - fonte e ferramentas de análise de dados do livro 'Lanterna Social - O Controle nas Mãos do Cidadão'
 
 Este repositório contém o código-fonte, scripts Python e ferramentas de análise de dados apresentados no livro **Lanterna Social**. 
 
