@@ -48,7 +48,7 @@ Neste espaço, você encontrará os códigos em Python e os cadernos de análise
 
 ---
 
-####### ⚖️ **Propriedade Intelectual e Licença**
+###### ⚖️ **Propriedade Intelectual e Licença**
 
 * **Scripts e Automação:** Os códigos contidos neste repositório (arquivos `.py` e `.ipynb`) são de código aberto, licenciados sob a **[MIT License](LICENSE)**. O objetivo é fomentar o controle social e a transparência.
 * **Obra Literária:** O título **Lanterna Social - O Controle nas Mãos do Cidadão**, o índice, as imagens de capa e os textos descritivos aqui apresentados são partes integrantes do livro de autoria de **Douglas Stasionisas** (em fase de registro/publicação). Todos os direitos sobre o texto literário estão reservados.
